@@ -1,7 +1,6 @@
 # Natural Variational Annealing
 
-Code accompanying the paper:  
-Le Minh, T., Arbel, J., Möllenhoff, T., Khan, M. E. and Forbes, F. (2025). Natural Variational Annealing for Multimodal Optimization. *Information and Inference: A Journal of the IMA*, 15 (2), iaag008.
+Code accompanying the paper: T. Le Minh, J. Arbel, T. Möllenhoff, M. E. Khan and F. Forbes. (2026). Natural Variational Annealing for Multimodal Optimization. *Information and Inference: A Journal of the IMA*, 15 (2), iaag008.
 
 ## Content
 - nva.py: the main code implementing NVA for multimodal optimization.
